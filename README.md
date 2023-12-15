@@ -47,9 +47,6 @@ Current version: 23.8.4.
       <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.8.4_arm64-setup.exe">
         💿 NSIS Installer
       </a><br />
-      <span>
-        ❓ Don't know which architecture of OS you installed? Execute <code>wmic os get osarchitecture</code> or Open System by clicking the Start button, right-clicking Computer, and then clicking Properties.
-      </span>
     </td>
   </tr>
   <tr>
@@ -58,27 +55,7 @@ Current version: 23.8.4.
       macOS
     </td>
     <td>
-      <span>Intel Processor</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_x64">
-        📦 Executable
-      </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_x64.dmg">
-        💿 DMG bundle
-      </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_x64.app.zip">
-        💿 APP bundle
-      </a><br />
-      <span>Apple M1 Processor</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_aarch64">
-        📦 Executable
-      </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_aarch64.dmg">
-        💿 DMG bundle
-      </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_aarch64.app.zip">
-        💿 APP bundle
-      </a><br />
-      <span><a href="https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary">Universal</a></span>
+      <span>Universal</span>
       <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_universal">
         📦 Executable
       </a> |
@@ -88,14 +65,6 @@ Current version: 23.8.4.
       <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.8.4_universal.app.zip">
         💿 APP bundle
       </a><br />
-      <span>
-        ❓ Don't know which architecture of OS you installed? Learn more at <a href="https://support.apple.com/en-us/HT211814">apple.com</a>.
-      </span><br />
-      <br />
-      <i>
-      While Apple silicon machines can run applications compiled for Intel-based Macs through a translation layer called <a href="https://support.apple.com/en-gb/HT211861">Rosetta</a>, this leads to a reduction in performance due to processor instruction translations. It is common practice to let the user choose the correct target when downloading the app, but you can also choose to distribute a <a href="https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary">Universal Binary</a>. Universal Binaries include both <b>aarch64</b> and <b>x86_64</b> executables, giving you the best experience on both architectures. Note, however, that this increases your bundle size significantly.
-      </i>
-    </td>
   </tr>
   <tr>
     <td align="center">
