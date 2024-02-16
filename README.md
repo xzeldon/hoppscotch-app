@@ -8,7 +8,7 @@ It support windows (x86, x64, arm64) and linux (amd64, i386, arm64, armhf) and m
 
 ## Downloads
 
-Current version: 23.12.4.
+Current version: 23.12.5.
 
 <table class="is-fullwidth">
 </thead>
@@ -21,30 +21,30 @@ Current version: 23.12.4.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x64.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x64.msi">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x64.msi">
         💿 MSI Installer
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x64-setup.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x64-setup.exe">
         💿 NSIS Installer
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x86.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x86.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x86.msi">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x86.msi">
         💿 MSI Installer
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_x86-setup.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_x86-setup.exe">
         💿 NSIS Installer
       </a><br />
       <span>arm64</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_arm64.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_arm64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.4_arm64-setup.exe">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-windows-23.12.5_arm64-setup.exe">
         💿 NSIS Installer
       </a><br />
     </td>
@@ -56,13 +56,13 @@ Current version: 23.12.4.
     </td>
     <td>
       <span>Universal</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.4_universal">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.5_universal">
         📦 Executable
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.4_universal.dmg">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.5_universal.dmg">
         💿 DMG bundle
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.4_universal.app.zip">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-macos-23.12.5_universal.app.zip">
         💿 APP bundle
       </a><br />
   </tr>
@@ -73,13 +73,13 @@ Current version: 23.12.4.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.4_amd64">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.5_amd64">
         📦 Executable
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.4_amd64.AppImage">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.5_amd64.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.4_amd64.deb">
+      <a href="https://github.com/xzeldon/hoppscotch-app/releases/latest/download/hoppscotch-app-linux-23.12.5_amd64.deb">
         💿 DEB bundle
       </a><br />
       <span>
